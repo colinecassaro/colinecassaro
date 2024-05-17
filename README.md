@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @colinecassaro
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning how to code!
+- 📫 How to reach me : coline.cassaro@gmail.com
